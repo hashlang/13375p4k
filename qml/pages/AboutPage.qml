@@ -74,7 +74,7 @@ Page {
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: "<a href=\"https://github.com/llelectronics/leetspeak\">Sourcecode on Github</a>"
                 onClicked: {
-                    Qt.openUrlExternally("https://github.com/llelectronics/leetspeak");
+                    Qt.openUrlExternally("https://github.com/llelectronics/13375p4k");
                 }
             }
 

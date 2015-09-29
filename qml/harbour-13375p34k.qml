@@ -38,7 +38,7 @@ ApplicationWindow
 
     property QtObject firstPage
 
-    property string version: "0.1"
+    property string version: "0.2"
     property string appname: "13375p34k"
     property string appicon: "qrc:/logo.png"
 
