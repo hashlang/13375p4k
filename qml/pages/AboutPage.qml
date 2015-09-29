@@ -74,7 +74,7 @@ Page {
                 anchors.horizontalCenter: parent.horizontalCenter
                 text: "<a href=\"https://github.com/llelectronics/leetspeak\">Sourcecode on Github</a>"
                 onClicked: {
-                    mainWindow.openNewTab('page-'+salt(), "https://github.com/llelectronics/leetspeak", false);
+                    Qt.openUrlExternally("https://github.com/llelectronics/leetspeak");
                 }
             }
 
